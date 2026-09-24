@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>raw_images</folder>
+  <filename>img_0020.jpg</filename>
+  <size>
+    <width>224</width>
+    <height>160</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>helmet</name>
+    <bndbox>
+      <xmin>147</xmin>
+      <ymin>47</ymin>
+      <xmax>199</xmax>
+      <ymax>104</ymax>
+    </bndbox>
+    <difficult>0</difficult>
+  </object>
+</annotation>
